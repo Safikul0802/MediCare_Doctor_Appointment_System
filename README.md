@@ -1,4 +1,5 @@
 # 🏥 MediCare — Doctor Appointment System
+## Live Link - https://medicare-78ud.vercel.app/
 
 A full-stack appointment scheduling application for patients and doctors. Patients can find doctors, book appointments, and follow their queue position. Doctors can view patient bookings, mark visits complete, and review appointment statistics. Built with the **MERN** stack with real-time updates using Socket.IO.
 
