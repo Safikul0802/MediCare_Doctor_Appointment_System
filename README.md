@@ -35,6 +35,7 @@ A full-stack appointment scheduling application for patients and doctors. Patien
 
 ### Doctor Features
 - **Doctor Registration**: Registration protected by a server-side secret key
+- **Doctor Secrete Key: 123@sadfgr% (Use this key When you Register as A Doctor)
 - **Appointment Dashboard**: View all appointments with patient names and dates
 - **Appointment Management**: Mark pending appointments as completed
 - **Analytics Dashboard**: View appointment counts, status, and trends
