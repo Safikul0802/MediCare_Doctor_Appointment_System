@@ -14,7 +14,7 @@ dotenv.config();
 
 const app = express();
 const server = createServer(app);
-const frontendOrigin = process.env.FRONTEND_URL || 'http://localhost:5173';
+const frontendOrigin = process.env.FRONTEND_URL || 'http://localhost:5173' || https://medicare-doctor-appointment-system-kmsy.onrender.com;
 const frontendOrigins = new Set([frontendOrigin]);
 
 if (process.env.NODE_ENV !== 'production') {
